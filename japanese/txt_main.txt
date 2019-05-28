@@ -1,4 +1,4 @@
-﻿#g_ok
+#g_ok
 ok
 
 #g_Ok
@@ -291,6 +291,7 @@ Society
 
 #g_increasing_to
 増加
+
 #g_decreasing_to
 減少
 
@@ -433,13 +434,13 @@ of
 ハイチーフ
 
 #g_facrk1_2
-チーフドム
+チーフダム
 
 #g_facrk2_1
 チーフテン
 
 #g_facrk2_2
-チーフドム
+チーフダム
 
 #g_prmtv_trb
 原始的な部族
@@ -524,3 +525,36 @@ and
 
 #g_with
 with
+
+#g_second
+second
+
+#g_seconds
+seconds
+
+#g_hour
+hour
+
+#g_hours
+hours
+
+#g_day
+day
+
+#g_days
+days
+
+#g_never
+never
+
+#g_chief
+チーフ
+
+#g_chiefdom
+チームダム
+
+#g_vassal
+バーサル
+
+#g_vassaldom
+バーサルダム
