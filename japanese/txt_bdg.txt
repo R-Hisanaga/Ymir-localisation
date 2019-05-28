@@ -777,3 +777,9 @@ txt_academ_n
 
 #txt_wall5_dscr
 石のブロックで作られた頑丈な防御壁。
+
+#txt_oldpcrcl_n
+長老の車座
+
+#txt_oldpcrcl_dscr
+口伝により知識の蓄積を行う原始的な方法。
